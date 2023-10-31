@@ -5,7 +5,7 @@
 1) Prachi Shah (2021A7PS2589H)
 2) Shramana Ghosh (2021A7PS1834H)
 3) Ambi Gaur (2021A4PS2923H)
-3) Harigovind R (2021A7PS2810H)
+4) Harigovind R (2021A7PS2810H)
 
 ## Objective
 The objective is to create a token based reward system by conceptualizing and implementing the underlying business logic and smart contracts in a sample Ethereum network.
